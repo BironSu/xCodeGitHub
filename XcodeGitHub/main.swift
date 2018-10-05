@@ -10,3 +10,15 @@ import Foundation
 
 print("Hello, World!")
 
+//control flow
+let day = "Friday"
+
+if day == "Friday" {
+    print("The weekend is here!")
+} else {
+    print("Pursuit Happiness")
+}
+
+//TODO: practice control flow concepts
+//TODO:
+//TODO:
